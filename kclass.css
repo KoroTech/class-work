@@ -1,0 +1,31 @@
+div{
+    color: yellow;
+    background-color: rgb(146, 146, 190);
+}
+
+#nerahubs{
+    font-size: 50px;
+    color: aqua;
+}
+.nerahubs{
+    font-weight: 600;
+    color: black;
+}
+.victor{
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.photo{
+    width: 120px;
+    height: 120px;
+}
+
+.victor div{
+    padding: 10px;
+}
+
+.victor p{
+    font-size: larger;
+}
